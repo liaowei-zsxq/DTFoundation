@@ -1,4 +1,4 @@
-framework module DTFoundation [extern_c] {
+framework module DTFoundation {
     umbrella header "DTFoundation.h"
     export *
 }
